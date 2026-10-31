@@ -30,7 +30,7 @@ https://stone-paper-scissors-one-iota.vercel.app/
 
 <p align="center">
   <img src="Screenshot 2026-10-31 175229.png" width="48%" alt="Game Interface" />
-  <img src="Screenshot 2026-10-31 175307.png" width="45%" alt="Gameplay" />
+  <img src="Screenshot 2026-10-31 175307.png" width="47%" alt="Gameplay" />
 </p>
 
 ## 🎯 How to Play
